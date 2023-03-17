@@ -1,7 +1,7 @@
 # autocomplete
 输入框历史记录
 
-<template>
+
     <div class="container">
         <iframe name="stop" style="display: none;"></iframe>
         <el-form
@@ -43,7 +43,7 @@
             </el-form-item>
         </el-form>
     </div>
-</template>
+
 <script>
 export default {
     name: "/business/manage",
